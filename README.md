@@ -31,6 +31,4 @@ pip install -r requirements.txt
 | SMOTE + Classification Threshold | 0.98 | 0.84 | 0.91 | 0.87 |
 | **Hybrid Model (Best)** | **0.98** | **1.00** | **0.85** | **0.92** |
 
-## 📄 License
-This project is licensed under the MIT License.
 
